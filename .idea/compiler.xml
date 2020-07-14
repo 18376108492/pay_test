@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="pay-back" />
+        <module name="pay-common" />
+        <module name="pay-config" />
+        <module name="pay-register" />
+        <module name="pay-user-api" />
+        <module name="pay-user-biz" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

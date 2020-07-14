@@ -1,0 +1,27 @@
+spring:
+  thymeleaf:
+    cache: false
+  main:
+    show-banner: false
+    banner-mode: "off"
+  application:
+    # 服务名称
+    name: "config"
+  cloud:
+    config:
+      server:
+        git:
+          # 强制拉取
+          force-pull: true
+  profiles:
+    #测试环环境
+    active: "dev"
+
+server:
+  # 服务端口
+  port: 9999
+
+eureka:
+  instance:
+    # 注册中心返回ip地址
+    prefer-ip-address: true

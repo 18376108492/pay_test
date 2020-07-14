@@ -1,0 +1,20 @@
+spring:
+  thymeleaf:
+    cache: false
+  main:
+    show-banner: false
+    banner-mode: "off"
+  application:
+    # 服务名称
+    name: "register"
+  profiles:
+    active: "dev"
+
+server:
+  # 服务端口
+  port: 8761
+
+eureka:
+  instance:
+    # 注册中心返回ip地址
+    prefer-ip-address: true
