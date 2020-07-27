@@ -9,7 +9,6 @@ import org.springframework.web.servlet.HandlerInterceptor;
 /**
  * 跨域放行过滤器
  * 
- * @author weibocy
  *
  */
 public class CrossInterceptor implements HandlerInterceptor {

@@ -9,8 +9,6 @@ import org.springframework.session.web.http.HttpSessionIdResolver;
 /**
  * 开启并配置session存储方式为：redis
  * 
- * @author weibocy
- *
  */
 @Configuration
 @EnableRedisHttpSession(maxInactiveIntervalInSeconds = 7 * 24 * 60 * 60)

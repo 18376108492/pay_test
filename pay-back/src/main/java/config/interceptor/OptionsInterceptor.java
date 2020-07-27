@@ -8,7 +8,6 @@ import org.springframework.web.servlet.HandlerInterceptor;
 /**
  * OPTIONS探测放行过滤器
  * 
- * @author weibocy
  *
  */
 public class OptionsInterceptor implements HandlerInterceptor {

@@ -15,7 +15,6 @@ import com.fasterxml.jackson.annotation.JsonAutoDetect;
 /**
  * 覆写替换系统默认redisTemplete
  * 
- * @author weibocy
  *
  */
 @Configuration

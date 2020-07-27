@@ -18,8 +18,6 @@ import lombok.extern.slf4j.Slf4j;
  * Option探测放行
  * 登录验证
  * 
- * @Author: weibocy
- * @Date:2020/2/26 13:05
  */
 @Configuration
 @Slf4j
