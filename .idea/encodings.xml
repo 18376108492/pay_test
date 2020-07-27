@@ -10,5 +10,6 @@
     <file url="file://$PROJECT_DIR$/pay-user" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pay-user/pay-user-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pay-user/pay-user-biz" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pay-user/pay-user-gen" charset="UTF-8" />
   </component>
 </project>

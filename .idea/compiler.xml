@@ -12,6 +12,7 @@
         <module name="pay-register" />
         <module name="pay-user-api" />
         <module name="pay-user-biz" />
+        <module name="pay-user-gen" />
       </profile>
     </annotationProcessing>
   </component>
